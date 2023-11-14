@@ -8,7 +8,7 @@ The data is stored as 3 primary datasets that can be merged on unique identifier
 "Heat Maps" contains code for creating the following data visualizations: 
 (1) device_heatmap.pdf; 
 (2) flavor_heatmap.pdf; and 
-(3) mic.conc_heatmap.highlow.pdf
+(3) nic.conc_heatmap.highlow.pdf
 
 "Combinations Analysis" contains code for creating the data visualizations:
 
