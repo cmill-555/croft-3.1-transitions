@@ -3,7 +3,7 @@ Analysis of transitions in device type, flavor type, and nicotine content among 
 
 The data is stored as 3 primary datasets that can be merged on unique identifiers.
 
-"Descriptive Statistics" includes code caluclating various descriptive statistics describing transitions in e-cigarette product use through the study duration.
+"Descriptive Statistics" includes code calculating various descriptive statistics describing transitions in e-cigarette product use through the study duration.
 
 "Heat Maps" contains code for creating the heat maps data visualizations maintained at the following URL: 
 
